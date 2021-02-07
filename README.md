@@ -1,2 +1,0 @@
-# after-azure
-"# after-azure" 
